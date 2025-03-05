@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Machines>
+    <m>
+        <Name>Tormach PCNC</Name>
+        <Group>Milling</Group>
+        <FilePath>C:\Users\anfro\Documents\SprutCAM X\Version 17\Projects\bottom_plate\bottom plate.stcp/Equipment/MachineSchema/Tormach_PCNC~0131232341/Tormach_PCNC.xml</FilePath>
+        <TypeName>Tormach_PCNC</TypeName>
+        <FileHash>B103EAB2955D9418A7D8EBF26A7C8A02</FileHash>
+        <FileSize>15483</FileSize>
+        <ImageFilePath>C:\Users\anfro\Documents\SprutCAM X\Version 17\Projects\bottom_plate\bottom plate.stcp/Equipment/MachineSchema/Tormach_PCNC~0131232341/Tormach.bmp</ImageFilePath>
+    </m>
+    <m>
+        <Name>DECKEL MAHO DMU60</Name>
+        <Group>Milling</Group>
+        <FilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Milling\5-axis (BC)\Maho DMU60\DMU60.xml</FilePath>
+        <TypeName>DMU60</TypeName>
+        <FileHash>E7C4753DF1FA9F7E0B45FEE774E516DE</FileHash>
+        <FileSize>3805</FileSize>
+        <ImageFilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Milling\5-axis (BC)\Maho DMU60\DMU60.bmp</ImageFilePath>
+    </m>
+    <m>
+        <Name>3-axis milling machine</Name>
+        <Group>Milling</Group>
+        <FilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Abstract\MillMachine3d.xml</FilePath>
+        <TypeName>MillMachine3d</TypeName>
+        <FileHash>C3829C58408837EC60A9D8C3AE6C38BF</FileHash>
+        <FileSize>694</FileSize>
+        <ImageFilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Abstract\Images\Mill_3Axis.bmp</ImageFilePath>
+    </m>
+    <m>
+        <Name>Lathe-milling machine (with turret head)</Name>
+        <Group>LatheMilling</Group>
+        <FilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\LatheMilling\Turret\Mori Seiki\LatheMillWithTurret.xml</FilePath>
+        <TypeName>LatheMillWithTurret</TypeName>
+        <FileHash>5671808E8D3E72AD9E93AF35BBD19153</FileHash>
+        <FileSize>5462</FileSize>
+        <ImageFilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\LatheMilling\Turret\Mori Seiki\NL2500.bmp</ImageFilePath>
+    </m>
+    <m>
+        <Name>Mori Seiki NL 2500</Name>
+        <Group>LatheMilling</Group>
+        <FilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\LatheMilling\Turret\Mori Seiki\MoriSeiki.xml</FilePath>
+        <TypeName>MoriSeikiNL2500</TypeName>
+        <FileHash>ED783BFD1586294868D948FB1E2FEBE0</FileHash>
+        <FileSize>11891</FileSize>
+        <ImageFilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Mori Seiki\NL2500.bmp</ImageFilePath>
+    </m>
+    <m>
+        <Name>MaxTurn 65 with Counter Spindle</Name>
+        <Group>LatheMilling</Group>
+        <FilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\LatheMilling\Turret\Maxturn65\MaxTurn65.xml</FilePath>
+        <TypeName>MaxTurn65WithCounterSpindle</TypeName>
+        <FileHash>0A19CD83E785841B99DE90B3F97FB1D1</FileHash>
+        <FileSize>14029</FileSize>
+        <ImageFilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\LatheMilling\Turret\Maxturn65\NL2500.bmp</ImageFilePath>
+    </m>
+    <m>
+        <Name>Mikron VCE600 Pro (3-axis)</Name>
+        <Group>Milling</Group>
+        <FilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Milling\3-axis\Mikron VCE600 Pro\VCE600Pro.xml</FilePath>
+        <TypeName>VCE600Pro</TypeName>
+        <FileHash>150FADDAD743D607064B1E1FBB264DBE</FileHash>
+        <FileSize>3049</FileSize>
+        <ImageFilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Milling\3-axis\Mikron VCE600 Pro\Images\Mikron.bmp</ImageFilePath>
+    </m>
+    <m>
+        <Name>Fanuc M710IC 50 Rails</Name>
+        <Group>Robot</Group>
+        <FilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Robots\Fanuc M710 IC 50\Fanuc_M710 IC_50_Rails.xml</FilePath>
+        <TypeName>Fanuc_M710IC_50_Rails</TypeName>
+        <FileHash>CD56F1E18949787C6D436ABF5F002414</FileHash>
+        <FileSize>6501</FileSize>
+        <ImageFilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Robots\Fanuc M710 IC 50\Fanuc M710IC50.jpg</ImageFilePath>
+    </m>
+    <m>
+        <Name>ABB IRB2400-16 laser universal</Name>
+        <Group>Robot</Group>
+        <FilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Robots\ABB IRB2400-16 (Laser universal)\ABB IRB2400-16 (Laser universal).xml</FilePath>
+        <TypeName>ABB_IRB2400_16_LaserUniversal</TypeName>
+        <FileHash>A447273030325ED99F7DE1380EDF6303</FileHash>
+        <FileSize>25304</FileSize>
+        <ImageFilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Robots\ABB IRB2400-16 (Laser universal)\Abb.jpg</ImageFilePath>
+    </m>
+    <m>
+        <Name>Abb IRB2400(WaterJet)</Name>
+        <Group>Robot</Group>
+        <FilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Robots\ABB IRB2400\Abb IRB2400.xml</FilePath>
+        <TypeName>Abb_IRB2400</TypeName>
+        <FileHash>2A38E3BDA8D13A7B5D8957D81E777A8A</FileHash>
+        <FileSize>4321</FileSize>
+        <ImageFilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Robots\ABB IRB2400\abb irb2400.jpg</ImageFilePath>
+    </m>
+    <m>
+        <Name>Microcut LT52</Name>
+        <Group>Lathe</Group>
+        <FilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Lathe\MicrocutLT52\MicrocutLT52.xml</FilePath>
+        <TypeName>MicrocutLT52</TypeName>
+        <FileHash>F43B0F14BEDEE94E481252BB8AC9BF80</FileHash>
+        <FileSize>13989</FileSize>
+        <ImageFilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Lathe\MicrocutLT52\Images\MicrocutLT52.bmp</ImageFilePath>
+    </m>
+    <m>
+        <Name>5-axis water jet (A,C)</Name>
+        <Group>JetCutter</Group>
+        <FilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Abstract\WaterJet_AC.xml</FilePath>
+        <TypeName>WaterJet_AC</TypeName>
+        <FileHash>1777D3799A5B9C4152B06818256F6C02</FileHash>
+        <FileSize>3774</FileSize>
+        <ImageFilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Abstract\Images\WaterJet.jpg</ImageFilePath>
+    </m>
+    <m>
+        <Name>4-axis Wire EDM </Name>
+        <Group>WireEDM</Group>
+        <FilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Abstract\WireEDM4d.xml</FilePath>
+        <TypeName>WireEDM4d</TypeName>
+        <FileHash>7302EA9F34F1AEEC0C2507F77B8DF820</FileHash>
+        <FileSize>2857</FileSize>
+        <ImageFilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Abstract\Images\JetCutter.bmp</ImageFilePath>
+    </m>
+    <m>
+        <Name>Lathe-Milling machine</Name>
+        <Group>LatheMilling</Group>
+        <FilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Abstract\LatheMillMachine.xml</FilePath>
+        <TypeName>LatheMillMachine</TypeName>
+        <FileHash>78CEAFCF63C3E0A7A381ADF67C9B914A</FileHash>
+        <FileSize>2500</FileSize>
+        <ImageFilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Abstract\Images\Lathe_Opposite.bmp</ImageFilePath>
+    </m>
+    <m>
+        <Name>2-Axis Jet Cutter </Name>
+        <Group>JetCutter</Group>
+        <FilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Abstract\JetCutter2d.xml</FilePath>
+        <TypeName>JetCutter2d</TypeName>
+        <FileHash>AB43092D5A1BBF60C399A263A9EDB7AC</FileHash>
+        <FileSize>1508</FileSize>
+        <ImageFilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Abstract\Images\JetCutter.bmp</ImageFilePath>
+    </m>
+    <m>
+        <Name>5-axis milling machine (A,C)</Name>
+        <Group>Milling</Group>
+        <FilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Abstract\MillMachine5d.xml</FilePath>
+        <TypeName>MillMachine5d</TypeName>
+        <FileHash>830406F7AE5B7796FD9EC8F15C9BAADA</FileHash>
+        <FileSize>2535</FileSize>
+        <ImageFilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Abstract\Images\5Mill_TableAC.bmp</ImageFilePath>
+    </m>
+    <m>
+        <Name>Lathe ZX</Name>
+        <Group>Lathe</Group>
+        <FilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Abstract\LatheZX.xml</FilePath>
+        <TypeName>LatheXZ</TypeName>
+        <FileHash>B6AF58058B2D6D3D689B4EA4868F5240</FileHash>
+        <FileSize>2857</FileSize>
+        <ImageFilePath>C:\ProgramData\SprutCAM Tech\SprutCAM X\Version 17\Machines\Schemas\Abstract\Images\TurnZX.bmp</ImageFilePath>
+    </m>
+</Machines>
